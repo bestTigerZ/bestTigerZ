@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bestTigerZ
 - 👀 I’m interested in bestCoverJ
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on bestCoverJ
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
